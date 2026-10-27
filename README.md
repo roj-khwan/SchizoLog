@@ -18,11 +18,12 @@ Schizo Log is a program you can use to prompt thing out and it will store in sql
 ## Usages
 Run the tools with this command.
 ```
-schizolog [-l] [-d]
+schizolog [-h] [-l] [-q]
 ```
 * `no args` running the program with no args will simply running a ranting session in which you can rant into.
-* `-l`: Log, this will instead output all the history that you've rant into Schzo Log instead of running a session.
-* `-d`: disable log, running this will disable standard input your log out 1 by 1 and just keep logging your rants.
+* `-h`: print help manual.
+* `-q`: Quite.
+* `-l`: Log, print out all the logs you have talk thru out the history.
 ## Example
 by simply run the prompt below in the terminal it will start an interperer of schozo-ing.
 ```
