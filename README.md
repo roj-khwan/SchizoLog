@@ -1,7 +1,7 @@
 # Schozo Log
 Schizo Log is a program you can use to prompt thing out and it will store in sqlite database to eternalize your thoughts and crazy idea—as long as that sqlite file still exist ofc.
 ## Content
-- [Features](##features)
+- [Features](#features)
 - [Installation](#installation)
 - [Uninstallation](#uninstallation)
 - [Usage](#usage)
