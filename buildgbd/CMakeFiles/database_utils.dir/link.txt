@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdatabase_utils.a CMakeFiles/database_utils.dir/src/database_utils.c.o
+/usr/bin/ranlib libdatabase_utils.a

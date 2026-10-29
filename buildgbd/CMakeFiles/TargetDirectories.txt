@@ -1,0 +1,4 @@
+/home/manhattan-femboy/Projects/cfool/SchizoLog/buildgbd/CMakeFiles/database_utils.dir
+/home/manhattan-femboy/Projects/cfool/SchizoLog/buildgbd/CMakeFiles/schizolog.dir
+/home/manhattan-femboy/Projects/cfool/SchizoLog/buildgbd/CMakeFiles/edit_cache.dir
+/home/manhattan-femboy/Projects/cfool/SchizoLog/buildgbd/CMakeFiles/rebuild_cache.dir
